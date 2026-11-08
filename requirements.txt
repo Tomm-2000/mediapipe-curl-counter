@@ -1,0 +1,4 @@
+jupyterlab
+mediapipe==0.10.21
+opencv-contrib-python<4.12
+numpy<2
